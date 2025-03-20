@@ -1,0 +1,4 @@
+com\wipro\entity\Product.class
+com\wipro\SpringbootDockerDemoApplication.class
+com\wipro\controller\ProductController.class
+com\wipro\repository\ProductRepository.class
